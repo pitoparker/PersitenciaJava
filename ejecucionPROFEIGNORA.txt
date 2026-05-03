@@ -1,0 +1,2 @@
+para ejecutar, pos supongo que el mvn compile primero, y luego se ejecuta esto:
+mvn exec:java "-Dexec.mainClass=pio.daw.ra8.mercado.Main" Importante tener maven instalado y eso
