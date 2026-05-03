@@ -11,6 +11,11 @@
     <class>pio.daw.ra8.ejemplos.relaciones.Autor</class>
     <class>pio.daw.ra8.ejemplos.relaciones.Libro</class>
     <class>pio.daw.ra8.ejercicios.jpa.Libro</class>
+    <!-- añadimos simulacion individuo e intercambio -->
+    <class>pio.daw.ra8.mercado.model.Simulacion</class>
+    <class>pio.daw.ra8.mercado.model.Individuo</class>
+    <class>pio.daw.ra8.mercado.model.Intercambio</class>
+
     <exclude-unlisted-classes>true</exclude-unlisted-classes>
     <properties>
       <property name="jakarta.persistence.jdbc.url" value="ra8.odb"/>
