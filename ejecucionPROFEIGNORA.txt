@@ -1,2 +1,3 @@
 para ejecutar, pos supongo que el mvn compile primero, y luego se ejecuta esto:
-mvn exec:java "-Dexec.mainClass=pio.daw.ra8.mercado.Main" Importante tener maven instalado y eso
+mvn exec:java "-Dexec.mainClass=pio.daw.ra8.mercado.Main" Importante tener maven instalado y eso, el archivo .odb esta 
+metido en target, pesa un poco porque tiene como 10000 intercambios. es evidencia de la ejecucion.
